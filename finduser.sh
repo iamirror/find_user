@@ -1,7 +1,5 @@
 #!/bin/bash
-# FindUser v1.2
-# Author: @Hak9
-# https://github.com/xHak9x/finduser
+
 
 trap 'printf "\n";partial;exit 1' 2
 
